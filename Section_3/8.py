@@ -1,3 +1,4 @@
+# 変数宣言
 num = 1
 name = 'Milke'
 

@@ -1,18 +1,14 @@
-l = [1, 20, 4, 50, 2, 1]
-print(l[0])
-print(l[0:4])
-print(l[2:5])
+# f-string
+a = 'a'
+print(f'a is {a}')
+x, y, z = 1, 2, 3
+print(f'a is {x}, {y}, {z}')
+print(f'a is {z}, {y}, {x}')
 
+name='Asobu'
+family = 'Takahashi'
 
-# len関数で文字 or 文字列の長さを測定する
-# type関数でこの変数の型を表示する
-print(len(l))
-print(type(l))
+print(f'My name is {name} {family}')
 
-n = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-print(n[::2])
-
-x = [10, 11 ,12 ,13 ,14]
-
-a = [n, x]
-print(a)
+#print()関数内の先頭にfをつけることで
+#{}内に変数を書き、代入することができる

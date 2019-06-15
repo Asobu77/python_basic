@@ -1,3 +1,4 @@
+# 文字列
 print('hello')
 print("hello")
 print("I don't know")
