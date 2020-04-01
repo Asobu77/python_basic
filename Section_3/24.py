@@ -10,3 +10,6 @@ d['z'] = 30
 print(d)
 
 print(dict(a=10, b=20))
+
+
+

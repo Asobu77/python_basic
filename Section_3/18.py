@@ -44,3 +44,5 @@ list_4 = [1, 2]
 # extend()関数はリストの結合で使用する
 list_3.extend(list_4)
 print(list_3)
+
+
